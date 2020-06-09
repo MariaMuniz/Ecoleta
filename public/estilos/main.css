@@ -1,0 +1,26 @@
+html{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+:root{
+    --title-color:#322153;
+    --primary-color:#34cb79;
+    }
+    
+    *{
+    margin:0;
+    padding:0;
+    /* mantem a caixa do tanho definido*/
+    box-sizing: border-box;
+}
+
+    body{
+    background:#f0f0f5;
+    }
+    a{
+        text-decoration: none;
+    }
+ h1,h2, h3,h4,h5,h6{
+     font-weight:  'Noto Sans JP', sans-serif;
+     color:var(--title-color)
+ }
+
