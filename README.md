@@ -11,5 +11,5 @@ Projeto Ecoleta foi desenvolvido durante o curso  NLW da Rocketseat.
 *   HTML5.
 *   CSS3.
 
-![Optional Text](../master/img/pag1.png)
+![Ecoleta](https://github.com/MariaMuniz/Ecoleta/blob/master/img/page1.png)
   
